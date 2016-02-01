@@ -9,3 +9,5 @@ I think I've finally got a hang of Git!
 # I like to SHOUT!
 > or whisper
 * about making list
+
+<body style="background:#80BFFF">
